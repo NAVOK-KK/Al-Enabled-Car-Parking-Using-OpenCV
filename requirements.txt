@@ -1,0 +1,4 @@
+pickle5==0.0.11
+numpy==1.24.1
+opencv-python==4.7.0.72
+cvzone==1.5.6
